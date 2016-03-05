@@ -1,0 +1,401 @@
+source	target	value
+Waterfront	Waterfront	0
+Burrard	Waterfront	2
+Granville	Waterfront	3
+Stadium-Chinatown	Waterfront	4
+Main	Waterfront	6
+Commercial-Broadway	Waterfront	9
+Nanaimo	Waterfront	12
+29th Avenue	Waterfront	13
+Joyce	Waterfront	15
+Patterson	Waterfront	17
+Metrotown	Waterfront	18
+Royal Oak	Waterfront	20
+Edmonds	Waterfront	23
+22nd Street	Waterfront	25
+New Westminster	Waterfront	29
+Columbia	Waterfront	30
+Scott Road	Waterfront	33
+Gateway	Waterfront	36
+Surrey Central	Waterfront	37
+King George	Waterfront	39
+Waterfront	Burrard	2
+Burrard	Burrard	0
+Granville	Burrard	1
+Stadium-Chinatown	Burrard	2
+Main	Burrard	4
+Commercial-Broadway	Burrard	7
+Nanaimo	Burrard	10
+29th Avenue	Burrard	11
+Joyce	Burrard	13
+Patterson	Burrard	15
+Metrotown	Burrard	16
+Royal Oak	Burrard	18
+Edmonds	Burrard	21
+22nd Street	Burrard	23
+New Westminster	Burrard	27
+Columbia	Burrard	28
+Scott Road	Burrard	31
+Gateway	Burrard	34
+Surrey Central	Burrard	36
+King George	Burrard	37
+Waterfront	Granville	3
+Burrard	Granville	1
+Granville	Granville	0
+Stadium-Chinatown	Granville	1
+Main	Granville	3
+Commercial-Broadway	Granville	6
+Nanaimo	Granville	9
+29th Avenue	Granville	10
+Joyce	Granville	12
+Patterson	Granville	14
+Metrotown	Granville	15
+Royal Oak	Granville	17
+Edmonds	Granville	20
+22nd Street	Granville	22
+New Westminster	Granville	26
+Columbia	Granville	27
+Scott Road	Granville	30
+Gateway	Granville	33
+Surrey Central	Granville	34
+King George	Granville	36
+Waterfront	Stadium-Chinatown	4
+Burrard	Stadium-Chinatown	2
+Granville	Stadium-Chinatown	1
+Stadium-Chinatown	Stadium-Chinatown	0
+Main	Stadium-Chinatown	2
+Commercial-Broadway	Stadium-Chinatown	5
+Nanaimo	Stadium-Chinatown	8
+29th Avenue	Stadium-Chinatown	9
+Joyce	Stadium-Chinatown	11
+Patterson	Stadium-Chinatown	13
+Metrotown	Stadium-Chinatown	14
+Royal Oak	Stadium-Chinatown	16
+Edmonds	Stadium-Chinatown	19
+22nd Street	Stadium-Chinatown	21
+New Westminster	Stadium-Chinatown	25
+Columbia	Stadium-Chinatown	26
+Scott Road	Stadium-Chinatown	29
+Gateway	Stadium-Chinatown	32
+Surrey Central	Stadium-Chinatown	33
+King George	Stadium-Chinatown	35
+Waterfront	Main	6
+Burrard	Main	4
+Granville	Main	3
+Stadium-Chinatown	Main	2
+Main	Main	0
+Commercial-Broadway	Main	3
+Nanaimo	Main	6
+29th Avenue	Main	7
+Joyce	Main	9
+Patterson	Main	11
+Metrotown	Main	12
+Royal Oak	Main	14
+Edmonds	Main	17
+22nd Street	Main	19
+New Westminster	Main	23
+Columbia	Main	24
+Scott Road	Main	27
+Gateway	Main	30
+Surrey Central	Main	31
+King George	Main	33
+Waterfront	Commercial-Broadway	9
+Burrard	Commercial-Broadway	7
+Granville	Commercial-Broadway	6
+Stadium-Chinatown	Commercial-Broadway	5
+Main	Commercial-Broadway	3
+Commercial-Broadway	Commercial-Broadway	0
+Nanaimo	Commercial-Broadway	3
+29th Avenue	Commercial-Broadway	4
+Joyce	Commercial-Broadway	6
+Patterson	Commercial-Broadway	8
+Metrotown	Commercial-Broadway	9
+Royal Oak	Commercial-Broadway	11
+Edmonds	Commercial-Broadway	14
+22nd Street	Commercial-Broadway	16
+New Westminster	Commercial-Broadway	20
+Columbia	Commercial-Broadway	21
+Scott Road	Commercial-Broadway	24
+Gateway	Commercial-Broadway	27
+Surrey Central	Commercial-Broadway	28
+King George	Commercial-Broadway	30
+Waterfront	Nanaimo	12
+Burrard	Nanaimo	10
+Granville	Nanaimo	9
+Stadium-Chinatown	Nanaimo	8
+Main	Nanaimo	6
+Commercial-Broadway	Nanaimo	3
+Nanaimo	Nanaimo	0
+29th Avenue	Nanaimo	1
+Joyce	Nanaimo	3
+Patterson	Nanaimo	5
+Metrotown	Nanaimo	6
+Royal Oak	Nanaimo	8
+Edmonds	Nanaimo	11
+22nd Street	Nanaimo	13
+New Westminster	Nanaimo	17
+Columbia	Nanaimo	18
+Scott Road	Nanaimo	21
+Gateway	Nanaimo	22
+Surrey Central	Nanaimo	24
+King George	Nanaimo	26
+Waterfront	29th Avenue	13
+Burrard	29th Avenue	11
+Granville	29th Avenue	10
+Stadium-Chinatown	29th Avenue	9
+Main	29th Avenue	7
+Commercial-Broadway	29th Avenue	4
+Nanaimo	29th Avenue	1
+29th Avenue	29th Avenue	0
+Joyce	29th Avenue	2
+Patterson	29th Avenue	4
+Metrotown	29th Avenue	5
+Royal Oak	29th Avenue	7
+Edmonds	29th Avenue	10
+22nd Street	29th Avenue	12
+New Westminster	29th Avenue	16
+Columbia	29th Avenue	17
+Scott Road	29th Avenue	20
+Gateway	29th Avenue	23
+Surrey Central	29th Avenue	24
+King George	29th Avenue	26
+Waterfront	Joyce	15
+Burrard	Joyce	13
+Granville	Joyce	12
+Stadium-Chinatown	Joyce	11
+Main	Joyce	9
+Commercial-Broadway	Joyce	6
+Nanaimo	Joyce	3
+29th Avenue	Joyce	2
+Joyce	Joyce	0
+Patterson	Joyce	2
+Metrotown	Joyce	3
+Royal Oak	Joyce	5
+Edmonds	Joyce	8
+22nd Street	Joyce	10
+New Westminster	Joyce	14
+Columbia	Joyce	15
+Scott Road	Joyce	18
+Gateway	Joyce	21
+Surrey Central	Joyce	22
+King George	Joyce	24
+Waterfront	Patterson	17
+Burrard	Patterson	15
+Granville	Patterson	14
+Stadium-Chinatown	Patterson	13
+Main	Patterson	11
+Commercial-Broadway	Patterson	8
+Nanaimo	Patterson	5
+29th Avenue	Patterson	4
+Joyce	Patterson	2
+Patterson	Patterson	0
+Metrotown	Patterson	1
+Royal Oak	Patterson	3
+Edmonds	Patterson	6
+22nd Street	Patterson	6
+New Westminster	Patterson	12
+Columbia	Patterson	13
+Scott Road	Patterson	16
+Gateway	Patterson	19
+Surrey Central	Patterson	20
+King George	Patterson	22
+Waterfront	Metrotown	18
+Burrard	Metrotown	16
+Granville	Metrotown	15
+Stadium-Chinatown	Metrotown	14
+Main	Metrotown	12
+Commercial-Broadway	Metrotown	9
+Nanaimo	Metrotown	6
+29th Avenue	Metrotown	5
+Joyce	Metrotown	3
+Patterson	Metrotown	1
+Metrotown	Metrotown	0
+Royal Oak	Metrotown	2
+Edmonds	Metrotown	5
+22nd Street	Metrotown	7
+New Westminster	Metrotown	11
+Columbia	Metrotown	12
+Scott Road	Metrotown	15
+Gateway	Metrotown	18
+Surrey Central	Metrotown	19
+King George	Metrotown	21
+Waterfront	Royal Oak	20
+Burrard	Royal Oak	18
+Granville	Royal Oak	17
+Stadium-Chinatown	Royal Oak	16
+Main	Royal Oak	14
+Commercial-Broadway	Royal Oak	11
+Nanaimo	Royal Oak	8
+29th Avenue	Royal Oak	7
+Joyce	Royal Oak	5
+Patterson	Royal Oak	3
+Metrotown	Royal Oak	3
+Royal Oak	Royal Oak	0
+Edmonds	Royal Oak	3
+22nd Street	Royal Oak	5
+New Westminster	Royal Oak	9
+Columbia	Royal Oak	10
+Scott Road	Royal Oak	13
+Gateway	Royal Oak	16
+Surrey Central	Royal Oak	17
+King George	Royal Oak	19
+Waterfront	Edmonds	23
+Burrard	Edmonds	21
+Granville	Edmonds	20
+Stadium-Chinatown	Edmonds	19
+Main	Edmonds	17
+Commercial-Broadway	Edmonds	14
+Nanaimo	Edmonds	11
+29th Avenue	Edmonds	10
+Joyce	Edmonds	8
+Patterson	Edmonds	6
+Metrotown	Edmonds	5
+Royal Oak	Edmonds	2
+Edmonds	Edmonds	0
+22nd Street	Edmonds	2
+New Westminster	Edmonds	5
+Columbia	Edmonds	7
+Scott Road	Edmonds	10
+Gateway	Edmonds	13
+Surrey Central	Edmonds	14
+King George	Edmonds	16
+Waterfront	22nd Street	25
+Burrard	22nd Street	23
+Granville	22nd Street	22
+Stadium-Chinatown	22nd Street	21
+Main	22nd Street	19
+Commercial-Broadway	22nd Street	16
+Nanaimo	22nd Street	13
+29th Avenue	22nd Street	12
+Joyce	22nd Street	10
+Patterson	22nd Street	6
+Metrotown	22nd Street	9
+Royal Oak	22nd Street	5
+Edmonds	22nd Street	4
+22nd Street	22nd Street	0
+New Westminster	22nd Street	4
+Columbia	22nd Street	5
+Scott Road	22nd Street	8
+Gateway	22nd Street	11
+Surrey Central	22nd Street	12
+King George	22nd Street	14
+Waterfront	New Westminster	29
+Burrard	New Westminster	27
+Granville	New Westminster	26
+Stadium-Chinatown	New Westminster	25
+Main	New Westminster	23
+Commercial-Broadway	New Westminster	20
+Nanaimo	New Westminster	17
+29th Avenue	New Westminster	16
+Joyce	New Westminster	14
+Patterson	New Westminster	12
+Metrotown	New Westminster	10
+Royal Oak	New Westminster	7
+Edmonds	New Westminster	5
+22nd Street	New Westminster	1
+New Westminster	New Westminster	0
+Columbia	New Westminster	1
+Scott Road	New Westminster	4
+Gateway	New Westminster	7
+Surrey Central	New Westminster	8
+King George	New Westminster	10
+Waterfront	Columbia	30
+Burrard	Columbia	28
+Granville	Columbia	27
+Stadium-Chinatown	Columbia	26
+Main	Columbia	24
+Commercial-Broadway	Columbia	21
+Nanaimo	Columbia	18
+29th Avenue	Columbia	17
+Joyce	Columbia	15
+Patterson	Columbia	13
+Metrotown	Columbia	13
+Royal Oak	Columbia	10
+Edmonds	Columbia	8
+22nd Street	Columbia	4
+New Westminster	Columbia	3
+Columbia	Columbia	0
+Scott Road	Columbia	3
+Gateway	Columbia	6
+Surrey Central	Columbia	7
+King George	Columbia	9
+Waterfront	Scott Road	33
+Burrard	Scott Road	31
+Granville	Scott Road	30
+Stadium-Chinatown	Scott Road	29
+Main	Scott Road	27
+Commercial-Broadway	Scott Road	24
+Nanaimo	Scott Road	21
+29th Avenue	Scott Road	20
+Joyce	Scott Road	18
+Patterson	Scott Road	16
+Metrotown	Scott Road	16
+Royal Oak	Scott Road	13
+Edmonds	Scott Road	11
+22nd Street	Scott Road	7
+New Westminster	Scott Road	6
+Columbia	Scott Road	3
+Scott Road	Scott Road	0
+Gateway	Scott Road	3
+Surrey Central	Scott Road	4
+King George	Scott Road	6
+Waterfront	Gateway	36
+Burrard	Gateway	34
+Granville	Gateway	33
+Stadium-Chinatown	Gateway	32
+Main	Gateway	30
+Commercial-Broadway	Gateway	27
+Nanaimo	Gateway	22
+29th Avenue	Gateway	23
+Joyce	Gateway	21
+Patterson	Gateway	19
+Metrotown	Gateway	17
+Royal Oak	Gateway	14
+Edmonds	Gateway	12
+22nd Street	Gateway	8
+New Westminster	Gateway	7
+Columbia	Gateway	4
+Scott Road	Gateway	1
+Gateway	Gateway	0
+Surrey Central	Gateway	1
+King George	Gateway	3
+Waterfront	Surrey Central	37
+Burrard	Surrey Central	36
+Granville	Surrey Central	34
+Stadium-Chinatown	Surrey Central	33
+Main	Surrey Central	31
+Commercial-Broadway	Surrey Central	28
+Nanaimo	Surrey Central	24
+29th Avenue	Surrey Central	24
+Joyce	Surrey Central	22
+Patterson	Surrey Central	20
+Metrotown	Surrey Central	19
+Royal Oak	Surrey Central	16
+Edmonds	Surrey Central	14
+22nd Street	Surrey Central	10
+New Westminster	Surrey Central	9
+Columbia	Surrey Central	6
+Scott Road	Surrey Central	3
+Gateway	Surrey Central	1
+Surrey Central	Surrey Central	0
+King George	Surrey Central	2
+Waterfront	King George	39
+Burrard	King George	37
+Granville	King George	36
+Stadium-Chinatown	King George	35
+Main	King George	33
+Commercial-Broadway	King George	30
+Nanaimo	King George	26
+29th Avenue	King George	26
+Joyce	King George	24
+Patterson	King George	22
+Metrotown	King George	21
+Royal Oak	King George	19
+Edmonds	King George	16
+22nd Street	King George	14
+New Westminster	King George	10
+Columbia	King George	9
+Scott Road	King George	6
+Gateway	King George	3
+Surrey Central	King George	2
+King George	King George	0
